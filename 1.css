@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: lightblue;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
